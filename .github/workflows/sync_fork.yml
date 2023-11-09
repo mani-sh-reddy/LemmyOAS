@@ -16,3 +16,4 @@ jobs:
           owner: mani-sh-reddy
           base: master
           head: master
+          ignore_fail: true
